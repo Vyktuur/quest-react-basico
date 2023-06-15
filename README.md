@@ -5,6 +5,7 @@ O projeto realizado com o create-react-app, visando a conclusão do desafio do m
 <br>
 ---
 <br>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:

@@ -1,0 +1,19 @@
+.btn{
+	margin: 50px;
+	background: #0066A2;
+	color: white;
+	border-style: none;
+    border-radius: 20px;
+	height: 60px;
+	width: 300px;
+	font: 20px arial,sans-serif;
+	text-shadow: none;
+    transition: 0.3s ease-in-out;
+}
+
+.btn:hover {
+	background: #B9DFFF;
+	color: #0066A2;
+	border-radius: 20px;
+	text-shadow: none;
+}

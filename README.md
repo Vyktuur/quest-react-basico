@@ -8,9 +8,9 @@ O projeto realizado com o create-react-app, visando a conclusão do desafio do m
 
 ## 💻 Para acessar
 
-1 - Baixe o .zip 
-2 - Abra com o terminal de preferência
-3 - Execute o comando 'npm start' para rodar o App.
+- Baixe o .zip 
+- Abra com o terminal de preferência
+- Execute o comando 'npm start' para rodar o App.
 
 <br>
 ---
